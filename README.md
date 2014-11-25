@@ -18,19 +18,19 @@ Setting the core vision for Nexo (if we even call it like that in the future) is
 ## Step 5 - Spreading the Word
 In this stage I suggest we will go and look for contributors that donate their 800 pesos in the Development Fund and apply their co.Budget (just by Loomio discussion) to new projects or services their think should be developed. We share and document the steps and hopefully we can show initial positive results from making descisions together and sharing budget if we worked for the money ourselves.
 
-#Step 6 - Starting New Projects
+## Step 6 - Starting New Projects
 Now there is an initial structure where money is send and maybe some initial signs of good accounting and legal practices and people trust the money flows well and transparent in the organization. Now it's time to start new projects, pitching and crowdfunding among existing members and contributors. I know awesome projects will be introduced since so many people have passion for things that I might not even see now..
 
-Step 7 - Projects Make Revenue and Fund-the-Development-Fund
+## Step 7 - Projects Make Revenue and Fund-the-Development-Fund
 Awesome some of the projects we created are generating revenue and we are concurring our first issues in the group with debates and discussions in an open an friendly spirit but with fire and passion defending our vision and dreams. This first new revenue streams come into the fund and it's time to pay someone some sort of salary to keep track of the money. Maybe we should vote on a fixed percentage that the Development Fund keeps of all money to run it's operations but we will decide on that in concensus when it's time.
 
-Step 8 - We now start more and more projects and more people join
+## Step 8 - We now start more and more projects and more people join
 Time to spread the word to outside our community since we have gotten over our initial growth problems and now have a network of companies making positive changes to our community. Network members don't feel alone, feel passion, feel drive and maybe now we can start tackling the biggest issues in our community and personal lives.
 
-Step 9 - Payments Within the Network
+## Step 9 - Payments Within the Network
 We have gotten pretty much all basic infrastructure done in our community and it might be a great time to let the money flow more easier between the initiatives. Why pay for food (that we produce and buy in bulk) with cash when I have money in my personal account inside [the Fund](https://github.com/dennisvdheijden/The-Nexo-Network/wiki/The-Nexo-Network). Maybe we can come up with more intelligent ways to deal with that.
 
-Step 10 - Yeah its working!
+## Step 10 - Yeah its working!
 Hundreds of people are now part of the local network and escaped their day-jobs and traded them in for more flexibel work at one or multiple projects inside The Nexo Network. Now live happy or do this all over again on another spot, now we have documented the road and learnings. We made change happen in such a short period, it can be copied everywhere. Here is the manual.
 
 ## License
