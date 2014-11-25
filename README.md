@@ -1,7 +1,7 @@
 Nexo
 ====
 
-Right now nothing has been decided since the group is yet to form, but in the [wiki, here](https://github.com/dennisvdheijden/The-Nexo-Network/wiki) I (Dennis) I collect my thoughts and suggestions, while it's all coming together.
+Right now nothing has been decided since the group is yet to form, but in the [wiki, here](https://github.com/dennisvdheijden/The-Nexo-Network/wiki/The-Nexo-Network) I (Dennis) I collect my thoughts and suggestions, while it's all coming together.
 
 ## License
 
