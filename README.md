@@ -4,7 +4,7 @@ Nexo
 Right now nothing has been decided since the group is yet to form, but in the [wiki](https://github.com/dennisvdheijden/The-Nexo-Network/wiki/The-Nexo-Network) I (Dennis) I collect my thoughts and suggestions, while it's all coming together. I have an idea how it would be able to start. See my step by step plan of action.
 
 ## Step 1 - Network of Trust
-Find a diverse group of people that are or have been taking public action towards the improvement of peoples lives. These people will live in Playa del Carmen and would like to make faster change in their own lives as well in the community. These people would be the first contributors to The Nexo Network.
+Find a diverse group of people that are or have been taking public action towards the improvement of peoples lives. These people will live in Playa del Carmen and would like to make faster change in their own lives as well in the community. These people would be the first contributors to [The Nexo Network](https://github.com/dennisvdheijden/The-Nexo-Network/wiki/The-Nexo-Network).
 
 ## Step 2 - Empower the Contributors
 Before structuring any organization it would be great with we can setup some basic projects that would eventually fall under [Nexo Services] (https://github.com/dennisvdheijden/The-Nexo-Network/wiki/The-Nexo-Network). Empower these contributors to setup their service business and experiment with voting power by concencus and arranging money flow in the most simplest way possible.
